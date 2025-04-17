@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="" />
+    <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/9_How to access  Instance Vaiable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,6 +203,7 @@
     "Python.8_extra member __name__.executor": "Run",
     "Python.9Print_Object.executor": "Run",
     "Python.9_Continue_loop.executor": "Run",
+    "Python.9_How to access  Instance Vaiable.executor": "Run",
     "Python.9_MapList_Practice.executor": "Run",
     "Python.9_MathModules.executor": "Run",
     "Python.9_Special Operators.executor": "Run",
