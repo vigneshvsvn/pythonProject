@@ -1,0 +1,9 @@
+firstname="Vignesh"
+lastname="kumar"
+age=33
+ssn="TN66"
+height=5.5
+weight=70
+print("Firstname:",firstname)
+print("Lastname:",lastname)
+print("Age:",age)
