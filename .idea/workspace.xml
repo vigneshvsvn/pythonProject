@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/9_How to access  Instance Vaiable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/10_variable placess to Declare Static Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/11_Accessing Static variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/12_Modifying Static Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/13_Program_Practice_Static_instance Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/15_How to delete static Variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +51,9 @@
     "Python.10_assert.executor": "Run",
     "Python.10_pop and Clear().executor": "Run",
     "Python.10_random Module and Uniform.executor": "Run",
+    "Python.10_variable placess to Declare Static Variable.executor": "Run",
     "Python.11.Filter_lamda Tasks.executor": "Run",
+    "Python.11_Accessing Static variable.executor": "Run",
     "Python.11_Escape_Chars.executor": "Run",
     "Python.11_Fake_Employee_Practice.executor": "Run",
     "Python.11_Remove_Duplicates_list.executor": "Run",
@@ -59,11 +64,13 @@
     "Python.11_removeDuplicate in string.executor": "Run",
     "Python.12_Constants.executor": "Run",
     "Python.12_FindNumber of occurrance.executor": "Run",
+    "Python.12_Modifying Static Variable.executor": "Run",
     "Python.12_Ordering.executor": "Run",
     "Python.12_Task.executor": "Run",
     "Python.12_loop_with_else_block.executor": "Run",
     "Python.12_map().executor": "Run",
     "Python.12_vowel_count_practice.executor": "Run",
+    "Python.13_Program_Practice_Static_instance Variable.executor": "Run",
     "Python.13_Task.executor": "Run",
     "Python.13_aliasing and Cloning.executor": "Run",
     "Python.13_del.executor": "Run",
