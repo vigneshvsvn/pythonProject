@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/16_Local Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/17_MiniBankApp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/18_Instance Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/19_getterandSetterMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/20_ClassMethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/21_To track number of Objectes Created for Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/22_Static Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/23_Examples_ClassMethod_staticMethod_instanceMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/24_acessing members of one clase inside another class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/25_Inner Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/26_Nesting_Inner Class Example.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,6 +115,11 @@
     "Python.1print.executor": "Run",
     "Python.20_ClassMethod.executor": "Run",
     "Python.21_To track number of Objectes Created for Class.executor": "Run",
+    "Python.22_Static Method.executor": "Run",
+    "Python.23_Examples_ClassMethod_staticMethod_instanceMethods.executor": "Run",
+    "Python.24_acessing members of one clase inside another class.executor": "Run",
+    "Python.25_Inner Class.executor": "Run",
+    "Python.26_Nesting_Inner Class Example.executor": "Run",
     "Python.2Assignment.executor": "Run",
     "Python.2_Complex.executor": "Run",
     "Python.2_Creation of Set Object.executor": "Run",
