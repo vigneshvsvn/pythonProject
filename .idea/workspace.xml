@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/10_variable placess to Declare Static Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/11_Accessing Static variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/12_Modifying Static Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/13_Program_Practice_Static_instance Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/15_How to delete static Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/16_Local Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/17_MiniBankApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/18_Instance Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/19_getterandSetterMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/20_ClassMethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/21_To track number of Objectes Created for Class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,14 +85,19 @@
     "Python.15_Comprehension.executor": "Run",
     "Python.15_Datatype Vs Immutability.executor": "Run",
     "Python.15_Dictionary Comprehension.executor": "Run",
+    "Python.15_How to delete static Variables.executor": "Run",
     "Python.15_Palindrome.executor": "Run",
     "Python.15_escapte Char.executor": "Run",
+    "Python.16_Local Variable.executor": "Run",
     "Python.16_Merging of Collections.executor": "Run",
     "Python.16_Task.executor": "Run",
     "Python.16_comprehesion_2.executor": "Run",
+    "Python.17_MiniBankApp.executor": "Run",
     "Python.17_Nested Collections.executor": "Run",
     "Python.17_Task.executor": "Run",
+    "Python.18_Instance Method.executor": "Run",
     "Python.18_Supermarket Program.executor": "Run",
+    "Python.19_getterandSetterMethod.executor": "Run",
     "Python.1Arithmetic.executor": "Run",
     "Python.1_Assignment.executor": "Run",
     "Python.1_Dictionary properties.executor": "Run",
@@ -108,6 +114,8 @@
     "Python.1_ifElse.executor": "Run",
     "Python.1_reverse the String.executor": "Run",
     "Python.1print.executor": "Run",
+    "Python.20_ClassMethod.executor": "Run",
+    "Python.21_To track number of Objectes Created for Class.executor": "Run",
     "Python.2Assignment.executor": "Run",
     "Python.2_Complex.executor": "Run",
     "Python.2_Creation of Set Object.executor": "Run",
