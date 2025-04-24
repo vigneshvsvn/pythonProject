@@ -4,6 +4,8 @@ Inheritance or Is A relationship.
 	- code reusability
 	- Code Extendability    : Extending parent functionality + child existing functionality
 
+	If we need to use many common methods if different class then GO with Inheritance. By writing all common Method to the Parent class and   inherit to required child class.
+
 """
 
 class Parent:
