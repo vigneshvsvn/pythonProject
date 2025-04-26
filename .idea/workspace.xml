@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/35_composition Vs Aggregation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/36_Composition vs Inheritance Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/37_Single_MultiLevel_Hierarchical_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/38_Multiple Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/39_Hybrid and Cyclic Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/40_Example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/40_MRO Method Resolution Order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/41_super() Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/42_super() VS Instance Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/42_super() for specific super class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/44_Polymorphism_Into.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/45_Operator Overloading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/46_Magic Methods for Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/47_importance of __str__().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/48_+ Operator for Nesting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/49_Method OverLoading.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17_Oops Concepts/34_IS A Relationship or Inheritance Intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/17_Oops Concepts/35_Inheritance  or IS A Relationship Intro.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +173,17 @@
     "Python.3_Traversing LIst.executor": "Run",
     "Python.3_Tuple.executor": "Run",
     "Python.3_while.executor": "Run",
+    "Python.40_Example2.executor": "Run",
+    "Python.40_MRO Method Resolution Order.executor": "Run",
+    "Python.41_super() Function.executor": "Run",
+    "Python.42_super() VS Instance Variable.executor": "Run",
+    "Python.42_super() for specific super class.executor": "Run",
+    "Python.44_Polymorphism_Into.executor": "Run",
+    "Python.45_Operator Overloading.executor": "Run",
+    "Python.46_Magic Methods for Operator.executor": "Run",
+    "Python.47_importance of __str__().executor": "Run",
+    "Python.48_+ Operator for Nesting.executor": "Run",
+    "Python.49_Method OverLoading.executor": "Run",
     "Python.4Logical.executor": "Run",
     "Python.4Practice.executor": "Run",
     "Python.4SetType.executor": "Run",
@@ -330,5 +346,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/17_Oops Concepts/48_+ Operator for Nesting.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
