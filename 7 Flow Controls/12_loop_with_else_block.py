@@ -3,7 +3,7 @@ Else can be used with else block as well.
 
 When to use else with loop block.
 
-Loop with out break statement execution then only else part will execute. Means loop should  fully execute without break.
+Loop without break statement execution then only else part will execute. Means loop should  fully execute without break.
 
 for
 else

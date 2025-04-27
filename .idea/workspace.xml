@@ -5,18 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/40_Example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/40_MRO Method Resolution Order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/41_super() Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/42_super() VS Instance Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/42_super() for specific super class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/44_Polymorphism_Into.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/45_Operator Overloading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/46_Magic Methods for Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/47_importance of __str__().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/48_+ Operator for Nesting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/49_Method OverLoading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/50_Constructor OverLoading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/51_Method Overriding and Constructor Overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/52_Overriding Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/53_Abstract Class and Method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/54_Interfaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/55_Interface Vs Abstract Class Vs Concrete Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/56_DataHiding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/57_Abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/58_Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/59_3 Pillers of Oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/Public, Private and Protected Members.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/19_finally Block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/1_Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/2_Handle using try and Except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/3_Control Flow in try Except Block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/4_How to print Exception details in Console.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/5_Try with multiple except block.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/6_Single except block with Multiple Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/7_Default Except and various except blocks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7 Flow Controls/12_loop_with_else_block.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 Flow Controls/12_loop_with_else_block.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +111,7 @@
     "Python.17_Task.executor": "Run",
     "Python.18_Instance Method.executor": "Run",
     "Python.18_Supermarket Program.executor": "Run",
+    "Python.19_finally Block.executor": "Run",
     "Python.19_getterandSetterMethod.executor": "Run",
     "Python.1Arithmetic.executor": "Run",
     "Python.1_Assignment.executor": "Run",
@@ -109,6 +119,7 @@
     "Python.1_Functions.executor": "Run",
     "Python.1_Fundamental.executor": "Run",
     "Python.1_Fundamentals.executor": "Run",
+    "Python.1_Intro.executor": "Run",
     "Python.1_Numeric.executor": "Run",
     "Python.1_Set Properties.executor": "Run",
     "Python.1_String.executor": "Run",
@@ -134,6 +145,7 @@
     "Python.2_Creation of Set Object.executor": "Run",
     "Python.2_Creations of Dict.executor": "Run",
     "Python.2_Function Parameters.executor": "Run",
+    "Python.2_Handle using try and Except.executor": "Run",
     "Python.2_How to access List.executor": "Run",
     "Python.2_Importance of __init__ py file.executor": "Run",
     "Python.2_ListType.executor": "Run",
@@ -163,6 +175,7 @@
     "Python.3Practice.executor": "Run",
     "Python.3_Boolean.executor": "Run",
     "Python.3_Constructor.executor": "Run",
+    "Python.3_Control Flow in try Except Block.executor": "Run",
     "Python.3_How to access,add,update,delete.executor": "Run",
     "Python.3_Mathematical, Relational , Membership.executor": "Run",
     "Python.3_Mathmatical and comparision.executor": "Run",
@@ -187,6 +200,7 @@
     "Python.4Logical.executor": "Run",
     "Python.4Practice.executor": "Run",
     "Python.4SetType.executor": "Run",
+    "Python.4_How to print Exception details in Console.executor": "Run",
     "Python.4_Mathematical Operations.executor": "Run",
     "Python.4_Mathematical_Operators in LIst.executor": "Run",
     "Python.4_Oops_MiniApp.executor": "Run",
@@ -199,6 +213,13 @@
     "Python.4_len(),add(),update() Functions for set.executor": "Run",
     "Python.4_number_to_word.executor": "Run",
     "Python.4_practice.executor": "Run",
+    "Python.50_Constructor OverLoading.executor": "Run",
+    "Python.51_Method Overriding and Constructor Overriding.executor": "Run",
+    "Python.52_Overriding Demo.executor": "Run",
+    "Python.53_Abstract Class and Method.executor": "Run",
+    "Python.56_DataHiding.executor": "Run",
+    "Python.57_Abstraction.executor": "Run",
+    "Python.58_Encapsulation.executor": "Run",
     "Python.5Practice.executor": "Run",
     "Python.5_Difference Constrcutor Vs Method.executor": "Run",
     "Python.5_Equality_Relations_Membership.executor": "Run",
@@ -221,6 +242,7 @@
     "Python.6_Methods_len()_count()_Index().executor": "Run",
     "Python.6_Pyramid_Print.executor": "Run",
     "Python.6_SetSpecificMethods.executor": "Run",
+    "Python.6_Single except block with Multiple Exceptions.executor": "Run",
     "Python.6_Types OfVariable_Global_Local.executor": "Run",
     "Python.6_bytearray.executor": "Run",
     "Python.6_dir and help function.executor": "Run",
@@ -229,6 +251,7 @@
     "Python.6_product_Of_List_Practise.executor": "Run",
     "Python.7Commandline_Argument.executor": "Run",
     "Python.7_Assignment Operator.executor": "Run",
+    "Python.7_Default Except and various except blocks.executor": "Run",
     "Python.7_Default Members by Python Internally.executor": "Run",
     "Python.7_DictionaryType.executor": "Run",
     "Python.7_Multiplication Table.executor": "Run",
@@ -271,6 +294,7 @@
     "Python.Methods_strips.executor": "Run",
     "Python.Module1.executor": "Run",
     "Python.Numeric.executor": "Run",
+    "Python.Public, Private and Protected Members.executor": "Run",
     "Python.TwoWheeler.executor": "Run",
     "Python._4SetType.executor": "Run",
     "Python.case Changes.executor": "Run",
