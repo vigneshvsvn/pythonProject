@@ -5,27 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/50_Constructor OverLoading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/51_Method Overriding and Constructor Overriding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/52_Overriding Demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/53_Abstract Class and Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/54_Interfaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/55_Interface Vs Abstract Class Vs Concrete Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/56_DataHiding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/57_Abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/58_Encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/59_3 Pillers of Oops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17_Oops Concepts/Public, Private and Protected Members.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/19_finally Block.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/1_Intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/2_Handle using try and Except.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/3_Control Flow in try Except Block.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/4_How to print Exception details in Console.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/5_Try with multiple except block.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/6_Single except block with Multiple Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/7_Default Except and various except blocks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/10_finally vs  destructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/11_control flow  in except and finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/12_Nested try except finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/13_else block with try except finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/14_Types of exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Exception Handling/9_finally Block vs os.exit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7 Flow Controls/12_loop_with_else_block.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 Flow Controls/12_loop_with_else_block.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18_Exception Handling/19_finally Block.py" beforeDir="false" afterPath="$PROJECT_DIR$/18_Exception Handling/8_finally Block.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,12 +61,14 @@
     "Python.11_Remove_Duplicates_list.executor": "Run",
     "Python.11_Task.executor": "Run",
     "Python.11_clear.executor": "Run",
+    "Python.11_control flow  in except and finally.executor": "Run",
     "Python.11_eval Function_Remove_Duplicates_list.executor": "Run",
     "Python.11_practice.executor": "Run",
     "Python.11_removeDuplicate in string.executor": "Run",
     "Python.12_Constants.executor": "Run",
     "Python.12_FindNumber of occurrance.executor": "Run",
     "Python.12_Modifying Static Variable.executor": "Run",
+    "Python.12_Nested try except finally.executor": "Run",
     "Python.12_Ordering.executor": "Run",
     "Python.12_Task.executor": "Run",
     "Python.12_loop_with_else_block.executor": "Run",
@@ -89,10 +78,12 @@
     "Python.13_Task.executor": "Run",
     "Python.13_aliasing and Cloning.executor": "Run",
     "Python.13_del.executor": "Run",
+    "Python.13_else block with try except finally.executor": "Run",
     "Python.13_pass_statement.executor": "Run",
     "Python.13_reduce().executor": "Run",
     "Python.14_NestedList.executor": "Run",
     "Python.14_Task_Student_Management.executor": "Run",
+    "Python.14_Types of exceptions.executor": "Run",
     "Python.14_anagram or not.executor": "Run",
     "Python.14_del statement.executor": "Run",
     "Python.14_typeCasting.executor": "Run",
@@ -284,6 +275,7 @@
     "Python.9_Split_join.executor": "Run",
     "Python.9_Task2.executor": "Run",
     "Python.9_Tuple_comprehension.executor": "Run",
+    "Python.9_finally Block vs os.exit.executor": "Run",
     "Python.9_pop()_popitem()_clear.executor": "Run",
     "Python.9_remove.executor": "Run",
     "Python.9_setdefault().executor": "Run",
