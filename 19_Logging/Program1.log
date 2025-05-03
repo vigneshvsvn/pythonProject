@@ -1,0 +1,20 @@
+This is Info Message.
+This is Warning Message.
+This is an Error Message.
+This is a Critical message.
+This is a Debug message.
+20250503 12:11:46:INFO:14944:This is Info Message..
+20250503 12:11:46:WARNING:14944:This is Warning Message..
+20250503 12:11:46:ERROR:14944:This is an Error Message..
+20250503 12:11:46:CRITICAL:14944:This is a Critical message..
+20250503 12:11:46:DEBUG:14944:This is a Debug message..
+20250503 12:11:57:INFO:19544:This is Info Message..
+20250503 12:11:57:WARNING:19544:This is Warning Message..
+20250503 12:11:57:ERROR:19544:This is an Error Message..
+20250503 12:11:57:CRITICAL:19544:This is a Critical message..
+20250503 12:11:57:DEBUG:19544:This is a Debug message..
+20250503 12:12:29:INFO:8408:This is Info Message..
+20250503 12:12:29:WARNING:8408:This is Warning Message..
+20250503 12:12:29:ERROR:8408:This is an Error Message..
+20250503 12:12:29:CRITICAL:8408:This is a Critical message..
+20250503 12:12:29:DEBUG:8408:This is a Debug message..

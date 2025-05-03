@@ -5,14 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/10_finally vs  destructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/11_control flow  in except and finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/12_Nested try except finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/13_else block with try except finally.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/14_Types of exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18_Exception Handling/9_finally Block vs os.exit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/1_Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/2.First Demo Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/3_Overwrite the Log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/4_How to Format log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/5_Dateand time format.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/6_Excpetions sample program 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/7_problems with root loggers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/8_Custom Logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/9_Need of separate logging config to separate file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/GenericLogger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/Program2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/ProgramcustomLogger1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/Student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/demo_inspect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/inspectModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/logging_config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Logging/program2_differentModules.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18_Exception Handling/19_finally Block.py" beforeDir="false" afterPath="$PROJECT_DIR$/18_Exception Handling/8_finally Block.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +131,7 @@
     "Python.1_ifElse.executor": "Run",
     "Python.1_reverse the String.executor": "Run",
     "Python.1print.executor": "Run",
+    "Python.2.First Demo Program.executor": "Run",
     "Python.20_ClassMethod.executor": "Run",
     "Python.21_To track number of Objectes Created for Class.executor": "Run",
     "Python.22_Static Method.executor": "Run",
@@ -171,6 +182,7 @@
     "Python.3_Mathematical, Relational , Membership.executor": "Run",
     "Python.3_Mathmatical and comparision.executor": "Run",
     "Python.3_Members_aliase.executor": "Run",
+    "Python.3_Overwrite the Log.executor": "Run",
     "Python.3_Retrun Multiple Values.executor": "Run",
     "Python.3_Reverse content of each word.executor": "Run",
     "Python.3_Squre patten with Number.executor": "Run",
@@ -191,6 +203,7 @@
     "Python.4Logical.executor": "Run",
     "Python.4Practice.executor": "Run",
     "Python.4SetType.executor": "Run",
+    "Python.4_How to Format log.executor": "Run",
     "Python.4_How to print Exception details in Console.executor": "Run",
     "Python.4_Mathematical Operations.executor": "Run",
     "Python.4_Mathematical_Operators in LIst.executor": "Run",
@@ -212,6 +225,7 @@
     "Python.57_Abstraction.executor": "Run",
     "Python.58_Encapsulation.executor": "Run",
     "Python.5Practice.executor": "Run",
+    "Python.5_Dateand time format.executor": "Run",
     "Python.5_Difference Constrcutor Vs Method.executor": "Run",
     "Python.5_Equality_Relations_Membership.executor": "Run",
     "Python.5_Equqlity_Relational_Membership.executor": "Run",
@@ -229,6 +243,7 @@
     "Python.6Practice.executor": "Run",
     "Python.6_Bitwise Operator.executor": "Run",
     "Python.6_Count of Substring.executor": "Run",
+    "Python.6_Excpetions sample program 1.executor": "Run",
     "Python.6_Merge_Chars_two String alternatively.executor": "Run",
     "Python.6_Methods_len()_count()_Index().executor": "Run",
     "Python.6_Pyramid_Print.executor": "Run",
@@ -253,9 +268,11 @@
     "Python.7_aliasing_Cloning_comprehension.executor": "Run",
     "Python.7_append and Insert.executor": "Run",
     "Python.7_keys(),values() and items.executor": "Run",
+    "Python.7_problems with root loggers.executor": "Run",
     "Python.7_replace.executor": "Run",
     "Python.8OuputFunctions.executor": "Run",
     "Python.8_Anonymous Or Lambda Function.executor": "Run",
+    "Python.8_Custom Logger.executor": "Run",
     "Python.8_Immutable.executor": "Run",
     "Python.8_Packing_UnPacking.executor": "Run",
     "Python.8_Practice.executor": "Run",
@@ -271,6 +288,7 @@
     "Python.9_How to access  Instance Vaiable.executor": "Run",
     "Python.9_MapList_Practice.executor": "Run",
     "Python.9_MathModules.executor": "Run",
+    "Python.9_Need of separate logging config to separate file.executor": "Run",
     "Python.9_Special Operators.executor": "Run",
     "Python.9_Split_join.executor": "Run",
     "Python.9_Task2.executor": "Run",
@@ -286,12 +304,18 @@
     "Python.Methods_strips.executor": "Run",
     "Python.Module1.executor": "Run",
     "Python.Numeric.executor": "Run",
+    "Python.Program2.executor": "Run",
+    "Python.ProgramcustomLogger1.executor": "Run",
     "Python.Public, Private and Protected Members.executor": "Run",
+    "Python.Student.executor": "Run",
     "Python.TwoWheeler.executor": "Run",
     "Python._4SetType.executor": "Run",
     "Python.case Changes.executor": "Run",
+    "Python.demo_inspect.executor": "Run",
+    "Python.inspectModule.executor": "Run",
     "Python.practice.executor": "Run",
     "Python.print_numberofStars_ntime.executor": "Run",
+    "Python.program2_differentModules.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/Learning/python/BharathThippireddy/pythonProject",

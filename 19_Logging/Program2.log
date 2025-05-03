@@ -1,0 +1,30 @@
+20250503 12:13:37:INFO:20312:This is Info Message..
+20250503 12:13:37:WARNING:20312:This is Warning Message..
+20250503 12:13:37:ERROR:20312:This is an Error Message..
+20250503 12:13:37:CRITICAL:20312:This is a Critical message..
+20250503 12:13:37:DEBUG:20312:This is a Debug message..
+20250503 12:14:47:INFO:6060:This is Info Message..
+20250503 12:14:47:WARNING:6060:This is Warning Message..
+20250503 12:14:47:ERROR:6060:This is an Error Message..
+20250503 12:14:47:CRITICAL:6060:This is a Critical message..
+20250503 12:14:47:DEBUG:6060:This is a Debug message..
+This is Info Message from Program 2.
+This is Warning Message  from Program 2.
+This is an Error Message  from Program 2.
+This is a Critical message from Program 2.
+This is a Debug message from Program 2.
+This is Info Message from Program 2.
+This is Warning Message  from Program 2.
+This is an Error Message  from Program 2.
+This is a Critical message from Program 2.
+This is a Debug message from Program 2.
+This is Info Message from Program 2.
+This is Warning Message  from Program 2.
+This is an Error Message  from Program 2.
+This is a Critical message from Program 2.
+This is a Debug message from Program 2.
+20250503 12:24:27:INFO:24476:This is Info Message from Program 2..
+20250503 12:24:27:WARNING:24476:This is Warning Message  from Program 2..
+20250503 12:24:27:ERROR:24476:This is an Error Message  from Program 2..
+20250503 12:24:27:CRITICAL:24476:This is a Critical message from Program 2..
+20250503 12:24:27:DEBUG:24476:This is a Debug message from Program 2..

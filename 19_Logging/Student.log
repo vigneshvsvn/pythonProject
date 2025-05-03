@@ -1,0 +1,25 @@
+This is Info Message from Student.
+This is Warning Message  from Student.
+This is an Error Message  from Student.
+This is a Critical message from Student.
+This is a Debug message from Student.
+20250503 12:22:20:INFO:19844:This is Info Message from Student..
+20250503 12:22:20:WARNING:19844:This is Warning Message  from Student..
+20250503 12:22:20:ERROR:19844:This is an Error Message  from Student..
+20250503 12:22:20:CRITICAL:19844:This is a Critical message from Student..
+20250503 12:22:20:DEBUG:19844:This is a Debug message from Student..
+20250503 12:22:53:INFO:10792:This is Info Message from Student..
+20250503 12:22:53:WARNING:10792:This is Warning Message  from Student..
+20250503 12:22:53:ERROR:10792:This is an Error Message  from Student..
+20250503 12:22:53:CRITICAL:10792:This is a Critical message from Student..
+20250503 12:22:53:DEBUG:10792:This is a Debug message from Student..
+20250503 12:23:49:INFO:11584:This is Info Message from Student..
+20250503 12:23:49:WARNING:11584:This is Warning Message  from Student..
+20250503 12:23:49:ERROR:11584:This is an Error Message  from Student..
+20250503 12:23:49:CRITICAL:11584:This is a Critical message from Student..
+20250503 12:23:49:DEBUG:11584:This is a Debug message from Student..
+20250503 12:24:27:INFO:24476:This is Info Message from Student..
+20250503 12:24:27:WARNING:24476:This is Warning Message  from Student..
+20250503 12:24:27:ERROR:24476:This is an Error Message  from Student..
+20250503 12:24:27:CRITICAL:24476:This is a Critical message from Student..
+20250503 12:24:27:DEBUG:24476:This is a Debug message from Student..

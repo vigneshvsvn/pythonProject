@@ -1,0 +1,17 @@
+20250503 11:03:06:ERROR:division by zero
+Traceback (most recent call last):
+  File "D:\Learning\python\BharathThippireddy\pythonProject\19_Logging\6_Excpetions sample program 1.py", line 12, in <module>
+    print('The Result:',x/y)
+ZeroDivisionError: division by zero
+20250503 11:05:23:INFO:A request Came and started.
+20250503 11:06:02:INFO:A new request Came and started processing...
+20250503 11:06:05:ERROR:division by zero
+Traceback (most recent call last):
+  File "D:\Learning\python\BharathThippireddy\pythonProject\19_Logging\6_Excpetions sample program 1.py", line 12, in <module>
+    print('The Result:',x/y)
+ZeroDivisionError: division by zero
+20250503 11:06:05:INFO:A request processing Completed.
+20250503 11:10:57:INFO:MainProcess:A new request Came and started processing...
+20250503 11:11:02:INFO:MainProcess:A request processing Completed.
+20250503 11:28:23:INFO:MainProcess:A new request Came and started processing...
+20250503 11:28:27:INFO:MainProcess:A request processing Completed.

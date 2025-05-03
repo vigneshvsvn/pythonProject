@@ -1,0 +1,10 @@
+20250503 13:38:01:INFO:MainProcess:This is Info Message.
+20250503 13:38:01:INFO:MainProcess:This is Info Message.
+20250503 13:38:01:WARNING:MainProcess:This is Warning Message.
+20250503 13:38:01:WARNING:MainProcess:This is Warning Message.
+20250503 13:38:01:ERROR:MainProcess:This is an Error Message.
+20250503 13:38:01:ERROR:MainProcess:This is an Error Message.
+20250503 13:38:01:DEBUG:MainProcess:This is a Debug Message.
+20250503 13:38:01:DEBUG:MainProcess:This is a Debug Message.
+20250503 13:38:01:CRITICAL:MainProcess:This is a Critical Message.
+20250503 13:38:01:CRITICAL:MainProcess:This is a Critical Message.
