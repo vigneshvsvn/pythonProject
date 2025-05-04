@@ -5,23 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/19_Logging/1_Intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/2.First Demo Program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/3_Overwrite the Log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/4_How to Format log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/5_Dateand time format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/6_Excpetions sample program 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/7_problems with root loggers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/8_Custom Logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/9_Need of separate logging config to separate file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/GenericLogger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/Program2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/ProgramcustomLogger1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/Student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/demo_inspect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/inspectModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/logging_config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19_Logging/program2_differentModules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_Assertion/1_Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/10_tell() and seek().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/11_How to check file exists or not.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/12_Number of Lines ,words and chars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/13_Handling Binary file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/14_Handling csv Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/15_csv Reading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/16_zipping and unzipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/1_Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/2_OpenFiles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/3_Closing a Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/4_Writing Char data to Text files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/5_Dynamic data to file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/6_Reading char data from text files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/7_ReadLines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/8_read from one file and write to other File.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/9_With statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Email.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,11 +65,13 @@
     "Python.10_assert.executor": "Run",
     "Python.10_pop and Clear().executor": "Run",
     "Python.10_random Module and Uniform.executor": "Run",
+    "Python.10_tell() and seek().executor": "Run",
     "Python.10_variable placess to Declare Static Variable.executor": "Run",
     "Python.11.Filter_lamda Tasks.executor": "Run",
     "Python.11_Accessing Static variable.executor": "Run",
     "Python.11_Escape_Chars.executor": "Run",
     "Python.11_Fake_Employee_Practice.executor": "Run",
+    "Python.11_How to check file exists or not.executor": "Run",
     "Python.11_Remove_Duplicates_list.executor": "Run",
     "Python.11_Task.executor": "Run",
     "Python.11_clear.executor": "Run",
@@ -79,11 +83,13 @@
     "Python.12_FindNumber of occurrance.executor": "Run",
     "Python.12_Modifying Static Variable.executor": "Run",
     "Python.12_Nested try except finally.executor": "Run",
+    "Python.12_Number of Lines ,words and chars.executor": "Run",
     "Python.12_Ordering.executor": "Run",
     "Python.12_Task.executor": "Run",
     "Python.12_loop_with_else_block.executor": "Run",
     "Python.12_map().executor": "Run",
     "Python.12_vowel_count_practice.executor": "Run",
+    "Python.13_Handling Binary file.executor": "Run",
     "Python.13_Program_Practice_Static_instance Variable.executor": "Run",
     "Python.13_Task.executor": "Run",
     "Python.13_aliasing and Cloning.executor": "Run",
@@ -91,6 +97,7 @@
     "Python.13_else block with try except finally.executor": "Run",
     "Python.13_pass_statement.executor": "Run",
     "Python.13_reduce().executor": "Run",
+    "Python.14_Handling csv Files.executor": "Run",
     "Python.14_NestedList.executor": "Run",
     "Python.14_Task_Student_Management.executor": "Run",
     "Python.14_Types of exceptions.executor": "Run",
@@ -102,11 +109,13 @@
     "Python.15_Dictionary Comprehension.executor": "Run",
     "Python.15_How to delete static Variables.executor": "Run",
     "Python.15_Palindrome.executor": "Run",
+    "Python.15_csv Reading.executor": "Run",
     "Python.15_escapte Char.executor": "Run",
     "Python.16_Local Variable.executor": "Run",
     "Python.16_Merging of Collections.executor": "Run",
     "Python.16_Task.executor": "Run",
     "Python.16_comprehesion_2.executor": "Run",
+    "Python.16_zipping and unzipping.executor": "Run",
     "Python.17_MiniBankApp.executor": "Run",
     "Python.17_Nested Collections.executor": "Run",
     "Python.17_Task.executor": "Run",
@@ -152,6 +161,7 @@
     "Python.2_Importance of __init__ py file.executor": "Run",
     "Python.2_ListType.executor": "Run",
     "Python.2_Module Aliasing.executor": "Run",
+    "Python.2_OpenFiles.executor": "Run",
     "Python.2_Reverse the Order.executor": "Run",
     "Python.2_Slice.executor": "Run",
     "Python.2_Squre Pattent.executor": "Run",
@@ -176,6 +186,7 @@
     "Python.3Comparision.executor": "Run",
     "Python.3Practice.executor": "Run",
     "Python.3_Boolean.executor": "Run",
+    "Python.3_Closing a Files.executor": "Run",
     "Python.3_Constructor.executor": "Run",
     "Python.3_Control Flow in try Except Block.executor": "Run",
     "Python.3_How to access,add,update,delete.executor": "Run",
@@ -214,6 +225,7 @@
     "Python.4_SqureWIthAlphabets.executor": "Run",
     "Python.4_Type_Conversion.executor": "Run",
     "Python.4_Types_Arguments.executor": "Run",
+    "Python.4_Writing Char data to Text files.executor": "Run",
     "Python.4_len(),add(),update() Functions for set.executor": "Run",
     "Python.4_number_to_word.executor": "Run",
     "Python.4_practice.executor": "Run",
@@ -227,6 +239,7 @@
     "Python.5Practice.executor": "Run",
     "Python.5_Dateand time format.executor": "Run",
     "Python.5_Difference Constrcutor Vs Method.executor": "Run",
+    "Python.5_Dynamic data to file.executor": "Run",
     "Python.5_Equality_Relations_Membership.executor": "Run",
     "Python.5_Equqlity_Relational_Membership.executor": "Run",
     "Python.5_For Loop.executor": "Run",
@@ -247,6 +260,7 @@
     "Python.6_Merge_Chars_two String alternatively.executor": "Run",
     "Python.6_Methods_len()_count()_Index().executor": "Run",
     "Python.6_Pyramid_Print.executor": "Run",
+    "Python.6_Reading char data from text files.executor": "Run",
     "Python.6_SetSpecificMethods.executor": "Run",
     "Python.6_Single except block with Multiple Exceptions.executor": "Run",
     "Python.6_Types OfVariable_Global_Local.executor": "Run",
@@ -261,6 +275,7 @@
     "Python.7_Default Members by Python Internally.executor": "Run",
     "Python.7_DictionaryType.executor": "Run",
     "Python.7_Multiplication Table.executor": "Run",
+    "Python.7_ReadLines.executor": "Run",
     "Python.7_Recursive Functions.executor": "Run",
     "Python.7_Reversion and sorting.executor": "Run",
     "Python.7_Sort_alphafirstfollowed by Digits.executor": "Run",
@@ -283,6 +298,7 @@
     "Python.8_break_loop.executor": "Run",
     "Python.8_extend().executor": "Run",
     "Python.8_extra member __name__.executor": "Run",
+    "Python.8_read from one file and write to other File.executor": "Run",
     "Python.9Print_Object.executor": "Run",
     "Python.9_Continue_loop.executor": "Run",
     "Python.9_How to access  Instance Vaiable.executor": "Run",
@@ -293,6 +309,7 @@
     "Python.9_Split_join.executor": "Run",
     "Python.9_Task2.executor": "Run",
     "Python.9_Tuple_comprehension.executor": "Run",
+    "Python.9_With statement.executor": "Run",
     "Python.9_finally Block vs os.exit.executor": "Run",
     "Python.9_pop()_popitem()_clear.executor": "Run",
     "Python.9_remove.executor": "Run",
@@ -300,6 +317,7 @@
     "Python.Demo1.executor": "Run",
     "Python.DemoModule.executor": "Run",
     "Python.Dummy.executor": "Run",
+    "Python.Email.executor": "Run",
     "Python.Hello.executor": "Run",
     "Python.Methods_strips.executor": "Run",
     "Python.Module1.executor": "Run",
