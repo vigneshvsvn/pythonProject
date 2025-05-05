@@ -5,26 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/20_Assertion/1_Intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/10_tell() and seek().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/11_How to check file exists or not.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/12_Number of Lines ,words and chars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/13_Handling Binary file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/14_Handling csv Files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/15_csv Reading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/16_zipping and unzipping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/1_Intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/2_OpenFiles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/3_Closing a Files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/4_Writing Char data to Text files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/5_Dynamic data to file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/6_Reading char data from text files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/7_ReadLines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/8_read from one file and write to other File.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/9_With statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21_File Handling/abc.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/17_Working with Directories.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/18_statistics of file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/TestDir/sub1_1/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_File Handling/system() Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/1_Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/2_pickle Module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/3_Pickle Multiple Objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/4_Json Deserialization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/4_Json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/5_Sample Project BitCoin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/6_Custom class Serialization and deserialization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/emp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/receiver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/sender.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_File Handling/3_Closing a Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_File Handling/3_Closing a Files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,8 +115,10 @@
     "Python.17_MiniBankApp.executor": "Run",
     "Python.17_Nested Collections.executor": "Run",
     "Python.17_Task.executor": "Run",
+    "Python.17_Working with Directories.executor": "Run",
     "Python.18_Instance Method.executor": "Run",
     "Python.18_Supermarket Program.executor": "Run",
+    "Python.18_statistics of file.executor": "Run",
     "Python.19_finally Block.executor": "Run",
     "Python.19_getterandSetterMethod.executor": "Run",
     "Python.1Arithmetic.executor": "Run",
@@ -166,6 +164,7 @@
     "Python.2_Slice.executor": "Run",
     "Python.2_Squre Pattent.executor": "Run",
     "Python.2_ifelseifLadder.executor": "Run",
+    "Python.2_pickle Module.executor": "Run",
     "Python.2_readmultiple_values_singlelne.executor": "Run",
     "Python.2_selfVariable.executor": "Run",
     "Python.2inputFunction.executor": "Run",
@@ -216,6 +215,8 @@
     "Python.4SetType.executor": "Run",
     "Python.4_How to Format log.executor": "Run",
     "Python.4_How to print Exception details in Console.executor": "Run",
+    "Python.4_Json Deserialization.executor": "Run",
+    "Python.4_Json.executor": "Run",
     "Python.4_Mathematical Operations.executor": "Run",
     "Python.4_Mathematical_Operators in LIst.executor": "Run",
     "Python.4_Oops_MiniApp.executor": "Run",
@@ -248,6 +249,7 @@
     "Python.5_Operators for Dict.executor": "Run",
     "Python.5_Print Odd Index and Even Index.executor": "Run",
     "Python.5_Remove elements from List.executor": "Run",
+    "Python.5_Sample Project BitCoin.executor": "Run",
     "Python.5_Test.executor": "Run",
     "Python.5_args vs Kwargs.executor": "Run",
     "Python.5_practice.executor": "Run",
@@ -256,6 +258,7 @@
     "Python.6Practice.executor": "Run",
     "Python.6_Bitwise Operator.executor": "Run",
     "Python.6_Count of Substring.executor": "Run",
+    "Python.6_Custom class Serialization and deserialization.executor": "Run",
     "Python.6_Excpetions sample program 1.executor": "Run",
     "Python.6_Merge_Chars_two String alternatively.executor": "Run",
     "Python.6_Methods_len()_count()_Index().executor": "Run",
@@ -334,6 +337,9 @@
     "Python.practice.executor": "Run",
     "Python.print_numberofStars_ntime.executor": "Run",
     "Python.program2_differentModules.executor": "Run",
+    "Python.receiver.executor": "Run",
+    "Python.sender.executor": "Run",
+    "Python.system() Function.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/Learning/python/BharathThippireddy/pythonProject",
@@ -412,6 +418,11 @@
           <url>file://$PROJECT_DIR$/17_Oops Concepts/48_+ Operator for Nesting.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/4_Json.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

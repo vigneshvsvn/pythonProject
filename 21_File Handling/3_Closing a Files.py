@@ -21,7 +21,6 @@ print('Readable:',f.readable())
 print("Writable:",f.writable())
 f.close()
 print("File Closed:",f.closed)
-f.
 
 
 
