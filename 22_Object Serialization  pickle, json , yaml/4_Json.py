@@ -41,5 +41,5 @@ with open('emp.json','w') as f:
 
 print("Json file Created, Please open 'emp.json' file and verify.")
 
-employee.ge
+
 
