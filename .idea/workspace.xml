@@ -5,21 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/7_jsonpickle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/8_yaml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_decorators/10_Decorator Chaining Example 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_decorators/1_Intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_decorators/2_Function as return Value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_decorators/3_decorator Fuction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_decorators/4_Decorator Example 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_decorators/5_Decorator example 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_decorators/6_Decorator_example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_decorators/7_How to call same function with Decorator and witout decorator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_decorators/8_Decorator Chaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_decorators/9_Decorator Chaining Example 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_Generators/1_Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_Generators/2_Program 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_Generators/3_Program2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_Generators/4_Collection vs Generator Performance Comparisions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23_Generators/5_Advantages and DisAdvantages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/1Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/2Create_Starting_Thread_without_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/3_Three Way, setting and  getting name of Thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/4_SamplePrograms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/5_Thread Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/6_join().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/7_Daemon Threads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/8_Synchronization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/1_Intro.py" beforeDir="false" afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/1_Intro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/4_Json.py" beforeDir="false" afterPath="$PROJECT_DIR$/22_Object Serialization  pickle, json , yaml/4_Json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_List Data Structure/13_aliasing and Cloning.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_List Data Structure/13_aliasing and Cloning.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +122,7 @@
     "Python.19_finally Block.executor": "Run",
     "Python.19_getterandSetterMethod.executor": "Run",
     "Python.1Arithmetic.executor": "Run",
+    "Python.1Intro.executor": "Run",
     "Python.1_Assignment.executor": "Run",
     "Python.1_Dictionary properties.executor": "Run",
     "Python.1_Functions.executor": "Run",
@@ -150,6 +151,7 @@
     "Python.28_Nester Inner Class Example 3.executor": "Run",
     "Python.29_Nested Methods.executor": "Run",
     "Python.2Assignment.executor": "Run",
+    "Python.2Create_Starting_Thread_without_Class.executor": "Run",
     "Python.2_Complex.executor": "Run",
     "Python.2_Creation of Set Object.executor": "Run",
     "Python.2_Creations of Dict.executor": "Run",
@@ -161,6 +163,7 @@
     "Python.2_ListType.executor": "Run",
     "Python.2_Module Aliasing.executor": "Run",
     "Python.2_OpenFiles.executor": "Run",
+    "Python.2_Program 1.executor": "Run",
     "Python.2_Reverse the Order.executor": "Run",
     "Python.2_Slice.executor": "Run",
     "Python.2_Squre Pattent.executor": "Run",
@@ -194,9 +197,11 @@
     "Python.3_Mathmatical and comparision.executor": "Run",
     "Python.3_Members_aliase.executor": "Run",
     "Python.3_Overwrite the Log.executor": "Run",
+    "Python.3_Program2.executor": "Run",
     "Python.3_Retrun Multiple Values.executor": "Run",
     "Python.3_Reverse content of each word.executor": "Run",
     "Python.3_Squre patten with Number.executor": "Run",
+    "Python.3_Three Way, setting and  getting name of Thread.executor": "Run",
     "Python.3_Traversing LIst.executor": "Run",
     "Python.3_Tuple.executor": "Run",
     "Python.3_decorator Fuction.executor": "Run",
@@ -215,6 +220,7 @@
     "Python.4Logical.executor": "Run",
     "Python.4Practice.executor": "Run",
     "Python.4SetType.executor": "Run",
+    "Python.4_Collection vs Generator Performance Comparisions.executor": "Run",
     "Python.4_Decorator Example 2.executor": "Run",
     "Python.4_How to Format log.executor": "Run",
     "Python.4_How to print Exception details in Console.executor": "Run",
@@ -226,6 +232,7 @@
     "Python.4_Positional_Arguments.executor": "Run",
     "Python.4_Practice1.executor": "Run",
     "Python.4_Reverse Every second word.executor": "Run",
+    "Python.4_SamplePrograms.executor": "Run",
     "Python.4_SqureWIthAlphabets.executor": "Run",
     "Python.4_Type_Conversion.executor": "Run",
     "Python.4_Types_Arguments.executor": "Run",
@@ -241,6 +248,7 @@
     "Python.57_Abstraction.executor": "Run",
     "Python.58_Encapsulation.executor": "Run",
     "Python.5Practice.executor": "Run",
+    "Python.5_Advantages and DisAdvantages.executor": "Run",
     "Python.5_Dateand time format.executor": "Run",
     "Python.5_Decorator example 3.executor": "Run",
     "Python.5_Difference Constrcutor Vs Method.executor": "Run",
@@ -255,6 +263,7 @@
     "Python.5_Remove elements from List.executor": "Run",
     "Python.5_Sample Project BitCoin.executor": "Run",
     "Python.5_Test.executor": "Run",
+    "Python.5_Thread Methods.executor": "Run",
     "Python.5_args vs Kwargs.executor": "Run",
     "Python.5_practice.executor": "Run",
     "Python.5_rangetype.executor": "Run",
@@ -274,11 +283,13 @@
     "Python.6_Types OfVariable_Global_Local.executor": "Run",
     "Python.6_bytearray.executor": "Run",
     "Python.6_dir and help function.executor": "Run",
+    "Python.6_join().executor": "Run",
     "Python.6_len(),get(),update().executor": "Run",
     "Python.6_len()_Count()_Index().executor": "Run",
     "Python.6_product_Of_List_Practise.executor": "Run",
     "Python.7Commandline_Argument.executor": "Run",
     "Python.7_Assignment Operator.executor": "Run",
+    "Python.7_Daemon Threads.executor": "Run",
     "Python.7_Default Except and various except blocks.executor": "Run",
     "Python.7_Default Members by Python Internally.executor": "Run",
     "Python.7_DictionaryType.executor": "Run",
@@ -363,7 +374,7 @@
       <recent name="D:\Learning\python\BharathThippireddy\pythonProject\13_Dictionary datatype" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.7_Daemon Threads">
     <configuration name="11_eval Function_Remove_Duplicates_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -386,8 +397,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="7_Daemon Threads" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24_MutiThreading" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24_MutiThreading/7_Daemon Threads.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7_Daemon Threads" />
         <item itemvalue="Python.11_eval Function_Remove_Duplicates_list" />
       </list>
     </recent_temporary>
