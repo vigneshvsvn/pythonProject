@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/23_Generators/1_Intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_Generators/2_Program 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_Generators/3_Program2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_Generators/4_Collection vs Generator Performance Comparisions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23_Generators/5_Advantages and DisAdvantages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/1Intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/2Create_Starting_Thread_without_Class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/3_Three Way, setting and  getting name of Thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/4_SamplePrograms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/5_Thread Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/6_join().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/7_Daemon Threads.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/8_Synchronization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/10_semaphore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/9_RLOCK.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_List Data Structure/13_aliasing and Cloning.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_List Data Structure/13_aliasing and Cloning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24_MutiThreading/8_Synchronization.py" beforeDir="false" afterPath="$PROJECT_DIR$/24_MutiThreading/8_Synchronization.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +50,7 @@
     "Python.10_assert.executor": "Run",
     "Python.10_pop and Clear().executor": "Run",
     "Python.10_random Module and Uniform.executor": "Run",
+    "Python.10_semaphore.executor": "Run",
     "Python.10_tell() and seek().executor": "Run",
     "Python.10_variable placess to Declare Static Variable.executor": "Run",
     "Python.11.Filter_lamda Tasks.executor": "Run",
@@ -313,6 +303,7 @@
     "Python.8_Immutable.executor": "Run",
     "Python.8_Packing_UnPacking.executor": "Run",
     "Python.8_Practice.executor": "Run",
+    "Python.8_Synchronization.executor": "Run",
     "Python.8_Task.executor": "Run",
     "Python.8_Task1.executor": "Run",
     "Python.8_Ternary Operator.executor": "Run",
@@ -329,6 +320,7 @@
     "Python.9_MapList_Practice.executor": "Run",
     "Python.9_MathModules.executor": "Run",
     "Python.9_Need of separate logging config to separate file.executor": "Run",
+    "Python.9_RLOCK.executor": "Run",
     "Python.9_Special Operators.executor": "Run",
     "Python.9_Split_join.executor": "Run",
     "Python.9_Task2.executor": "Run",
@@ -374,7 +366,7 @@
       <recent name="D:\Learning\python\BharathThippireddy\pythonProject\13_Dictionary datatype" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7_Daemon Threads">
+  <component name="RunManager">
     <configuration name="11_eval Function_Remove_Duplicates_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
