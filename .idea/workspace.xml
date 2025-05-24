@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/11_interthread Communication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/12_TrafficSignal Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/13_Interthread Communication using Conditional Object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/14_interthread communication with Queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/15_PriorityQueue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/16_Good Paractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_Database/1_Intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_Database/2_Sample Program_Create and Drop Tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_Database/3_SampleProgram_insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_Database/4_SampleProgram_Parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25_Database/5_Sample_Select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_Regular Expressions/1_Intro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,6 +163,7 @@
     "Python.2_OpenFiles.executor": "Run",
     "Python.2_Program 1.executor": "Run",
     "Python.2_Reverse the Order.executor": "Run",
+    "Python.2_Sample Program.executor": "Run",
     "Python.2_Slice.executor": "Run",
     "Python.2_Squre Pattent.executor": "Run",
     "Python.2_ifelseifLadder.executor": "Run",
@@ -198,6 +199,7 @@
     "Python.3_Program2.executor": "Run",
     "Python.3_Retrun Multiple Values.executor": "Run",
     "Python.3_Reverse content of each word.executor": "Run",
+    "Python.3_SampleProgram.executor": "Run",
     "Python.3_Squre patten with Number.executor": "Run",
     "Python.3_Three Way, setting and  getting name of Thread.executor": "Run",
     "Python.3_Traversing LIst.executor": "Run",
@@ -230,6 +232,7 @@
     "Python.4_Positional_Arguments.executor": "Run",
     "Python.4_Practice1.executor": "Run",
     "Python.4_Reverse Every second word.executor": "Run",
+    "Python.4_SampleProgram_Parameter.executor": "Run",
     "Python.4_SamplePrograms.executor": "Run",
     "Python.4_SqureWIthAlphabets.executor": "Run",
     "Python.4_Type_Conversion.executor": "Run",
@@ -260,6 +263,7 @@
     "Python.5_Print Odd Index and Even Index.executor": "Run",
     "Python.5_Remove elements from List.executor": "Run",
     "Python.5_Sample Project BitCoin.executor": "Run",
+    "Python.5_Sample_Select.executor": "Run",
     "Python.5_Test.executor": "Run",
     "Python.5_Thread Methods.executor": "Run",
     "Python.5_args vs Kwargs.executor": "Run",
