@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9566af4-fd2c-4001-a2ed-52f64eedb1f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/10_semaphore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_MutiThreading/9_RLOCK.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/11_interthread Communication.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/12_TrafficSignal Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/13_Interthread Communication using Conditional Object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/14_interthread communication with Queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/15_PriorityQueue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_MutiThreading/16_Good Paractice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24_MutiThreading/8_Synchronization.py" beforeDir="false" afterPath="$PROJECT_DIR$/24_MutiThreading/8_Synchronization.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +66,7 @@
     "Python.11_clear.executor": "Run",
     "Python.11_control flow  in except and finally.executor": "Run",
     "Python.11_eval Function_Remove_Duplicates_list.executor": "Run",
+    "Python.11_interthread Communication.executor": "Run",
     "Python.11_practice.executor": "Run",
     "Python.11_removeDuplicate in string.executor": "Run",
     "Python.12_Constants.executor": "Run",
@@ -72,10 +76,12 @@
     "Python.12_Number of Lines ,words and chars.executor": "Run",
     "Python.12_Ordering.executor": "Run",
     "Python.12_Task.executor": "Run",
+    "Python.12_TrafficSignal Example.executor": "Run",
     "Python.12_loop_with_else_block.executor": "Run",
     "Python.12_map().executor": "Run",
     "Python.12_vowel_count_practice.executor": "Run",
     "Python.13_Handling Binary file.executor": "Run",
+    "Python.13_Interthread Communication using Conditional Object.executor": "Run",
     "Python.13_Program_Practice_Static_instance Variable.executor": "Run",
     "Python.13_Task.executor": "Run",
     "Python.13_aliasing and Cloning.executor": "Run",
@@ -89,12 +95,14 @@
     "Python.14_Types of exceptions.executor": "Run",
     "Python.14_anagram or not.executor": "Run",
     "Python.14_del statement.executor": "Run",
+    "Python.14_interthread communication with Queue.executor": "Run",
     "Python.14_typeCasting.executor": "Run",
     "Python.15_Comprehension.executor": "Run",
     "Python.15_Datatype Vs Immutability.executor": "Run",
     "Python.15_Dictionary Comprehension.executor": "Run",
     "Python.15_How to delete static Variables.executor": "Run",
     "Python.15_Palindrome.executor": "Run",
+    "Python.15_PriorityQueue.executor": "Run",
     "Python.15_csv Reading.executor": "Run",
     "Python.15_escapte Char.executor": "Run",
     "Python.16_Local Variable.executor": "Run",
