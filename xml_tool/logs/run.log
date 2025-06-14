@@ -1,0 +1,7 @@
+2025-05-29 18:11:18,334 - INFO - Loading XSD schema
+2025-05-29 18:11:18,334 - INFO - Loading XSLT
+2025-05-29 18:11:18,336 - INFO - Processing file: Invalid.xml
+2025-05-29 18:11:18,336 - ERROR - Validation failed for Invalid.xml
+2025-05-29 18:11:18,336 - INFO - Processing file: valid.xml
+2025-05-29 18:11:18,336 - INFO - valid.xml is valid
+2025-05-29 18:11:18,336 - INFO - Saved transformed file: valid.html

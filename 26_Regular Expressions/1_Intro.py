@@ -13,7 +13,9 @@ Application of Regular Expressions:
 - grep in linux
 
 we have module : re in pyton
-re module  contains several functions 
+re module  contains several functions
+
+[abc] --> one char match means can any of these a or b or c
 
 """
 import re
